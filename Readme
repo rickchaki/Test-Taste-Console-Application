@@ -1,0 +1,5 @@
+Propose in less than 5 lines an alternative solution to this problem (if possible) and explain a benefit and  a drawback versus the solution that you have chosen. 
+
+
+This solution can also be managed in dedicated Business Logic Layer in stead of putting the code in model. In that way we can achieve better sepeartion of codes. In large Softwares, it is 
+recommended to use different layers and area of application.
